@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB000&height=200&section=header&text=Memed1s&fontSize=80&fontColor=0d1117&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18&descColor=0d1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB000&height=200&section=header&text=Memed1sec&fontSize=80&fontColor=0d1117&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18&descColor=0d1117" width="100%"/>
 
 </div>
 
@@ -13,13 +13,13 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hmami-a01943351/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Memed1s)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MEMED1s)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Memed1sec)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Memed1sec)
 [![Email](https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=black)](mailto:hmami.mohamed69@gmail.com)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MEMED1s&color=FFB000&style=flat-square&label=👁️+PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Memed1sec&color=FFB000&style=flat-square&label=👁️+PROFILE+VIEWS)
 
 </div>
 
@@ -28,7 +28,7 @@
 ## `> whoami`
 
 ```python
-class Memed1s:
+class Memed1sec:
     role        = "Cybersecurity Engineering Student"
     focus       = ["Blue Team", "SOAR Automation", "Threat Detection"]
     tools       = ["Burp Suite", "MITRE CALDERA", "Suricata", "Shuffle", "Wireshark","Wazuh"]
@@ -240,11 +240,11 @@ class Memed1s:
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Memed1s-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Memed1s)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Memed1sec-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Memed1sec)
 
 > 🎯 Active on TryHackMe — grinding SOC, Web Exploitation & Network Security rooms
 
-| 🔗 Profile | [tryhackme.com/p/Memed1s](https://tryhackme.com/p/Memed1s) |
+| 🔗 Profile | [tryhackme.com/p/Memed1sec](https://tryhackme.com/p/Memed1sec) |
 |:---:|:---|
 | 🛤️ Current Path | SOC Level 1 |
 | 🎯 Focus Areas | Web Exploitation · Linux · Network Security |
@@ -253,7 +253,7 @@ class Memed1s:
 
 ---
 
-## `> git log --stat MEMED1s`
+## `> git log --stat Memed1sec`
 
 <div align="center">
 
@@ -261,7 +261,7 @@ class Memed1s:
 <br>
 
 <!-- Streak stats — uses demolab which is the most reliable -->
-<img src="https://streak-stats.demolab.com/?user=MEMED1s&theme=dark&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=c9d1d9&dates=8b949e&background=0d1117&border=30363d&hide_border=false" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Memed1sec&theme=dark&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=c9d1d9&dates=8b949e&background=0d1117&border=30363d&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
